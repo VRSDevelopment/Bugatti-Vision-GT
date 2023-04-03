@@ -1,4 +1,3 @@
-# Bugatti-Vision-GT
 Bugatti Vision GT
 
 Model features:
