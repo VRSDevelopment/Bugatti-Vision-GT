@@ -7,4 +7,5 @@ Model features:
 - Tuned optics;
 - Your shadow.
 
-https://cdn.discordapp.com/attachments/959604270527819786/1075484433135702036/vgt.png
+Preview
+![vgt](https://user-images.githubusercontent.com/89213812/229545750-00fc81d3-5138-4eec-9b77-f6ef3efcc875.png)
